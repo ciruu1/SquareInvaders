@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu May 18 10:17:38 2023
+# Process ID: 5228
+# Current directory: C:/Users/Ciruu/Desktop/SquareInvaders/SquareInvaders.runs/impl_1
+# Command line: vivado.exe -log game.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source game.tcl -notrace
+# Log file: C:/Users/Ciruu/Desktop/SquareInvaders/SquareInvaders.runs/impl_1/game.vdi
+# Journal file: C:/Users/Ciruu/Desktop/SquareInvaders/SquareInvaders.runs/impl_1\vivado.jou
+# Running On: DESKTOP-13Q7Q8S, OS: Windows, CPU Frequency: 2895 MHz, CPU Physical cores: 16, Host memory: 16556 MB
+#-----------------------------------------------------------
+source game.tcl -notrace
